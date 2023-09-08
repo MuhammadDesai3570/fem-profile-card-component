@@ -15,7 +15,7 @@
 body {
   height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
-  background: url(/images/bg-pattern-bottom.svg) bottom -37.5rem right -9.375rem
+  background: url(images/bg-pattern-bottom.svg) bottom -37.5rem right -9.375rem
       no-repeat,
     url(images/bg-pattern-top.svg) top -31.25rem left -12.5rem no-repeat;
   background-color: hsl(185, 75%, 39%);
